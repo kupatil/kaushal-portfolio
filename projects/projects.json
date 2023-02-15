@@ -1,0 +1,54 @@
+[
+
+  {
+    "name": "Netflix Clone",
+    "desc": "Full-Stack Netflix clone built using HTML, CSS, JavaScript",
+    "image": "instagrammern1",
+    "category": "mern",
+    "links": {
+      "view": "https://kupatil.github.io/NetflixClone/",
+      "code": "https://github.com/kupatil/NetflixClone"
+    }
+  },
+  {
+    "name": "MCQ Exam System",
+    "desc": "Online Exam System is a full-fledged system which is beneficial for both teachers and students. With this site, Administrator can allow authorized entry of users which includes faculties and students.",
+    "image": "MCQ",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/kupatil/Online-Exam-System"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Face Detection Project",
+    "desc": "Detect your face in any image using openCV with dnn module Today I’m going to share a little known secret with you regarding the OpenCV library",
+    "image": "face project",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/kupatil/Face-Detect-Projects"
+    }
+  },
+  {
+    "name": "Zomato-alternative-website",
+    "desc": "Zomato Alternative Responsive-Food-Website",
+    "image": "zomato",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kupatil.github.io/Zomato-alternative-website/",
+      "code": "https://github.com/kupatil/Zomato-alternative-website"
+    }
+  } 
+  
+]
